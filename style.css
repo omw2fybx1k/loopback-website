@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f7f7f5;
+  text-align: center;
+  color: #111;
+}
+
+.collection {
+  background: white;
+  margin: 30px auto;
+  padding: 20px;
+  width: 80%;
+  max-width: 500px;
+  border-radius: 12px;
+}
+
+a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: #111;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
